@@ -1,0 +1,302 @@
+/*font-family: 'Ubuntu', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Indie Flower', cursive;*/
+.top{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1500px;
+  height: 63px;
+   border-bottom:1px solid #BDBDBD;
+  margin-left: 0;
+
+}
+
+.pin{
+  position: absolute;
+  top: 13px;
+  left: 68px;
+  width: 37px;
+}
+
+.buscador{
+  position: absolute;
+  top: 15px;
+  left: 135px;
+  width: 950px;
+  height:40px;
+  color: #000;
+  background-color:#E6E6E6;
+  border-radius: 10px 10px 10px 10px;
+-moz-border-radius: 10px 10px 10px 10px;
+-webkit-border-radius: 10px 10px 10px 10px;
+}
+p{
+  position: absolute;
+  top: -10px;
+  left: 80px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.fa-user:before {
+    position: absolute;
+    top: 25px;
+    content: "\f007";
+    font-size: 20px;
+    padding-left: 1120px;
+}
+.fa-bars:before{
+    position: absolute;
+    top: 25px;
+    content: "\f007";
+    font-size: 20px;
+    padding-left: 1170px;
+}
+.fa-commenting:before{
+    position: absolute;
+    top: 25px;
+    content: "\f007";
+    font-size: 20px;
+    padding-left: 1230px;
+}
+.fa-search:before{
+  position: absolute;
+  top: 7px;
+  left: 50px;
+  content: "\f007";
+  font-size: 20px;
+}
+
+.menu_vertical{
+  position: absolute;
+  background:none;
+  top: 65px;
+  left: 120px;
+  width: 1200px;
+  height: 100px;
+  margin-top: 0px;
+  display: inline-block;
+}
+.primer{
+  position: absolute;
+  background:#8A0829;
+  top: 5px;
+  left: 20px;
+  width: 120px;
+  height: 70px;
+  margin-top: 10px;
+  padding-top: 10px;
+  display: inline-block;
+  color: #F2F2F2;
+  text-align: center;
+  font-weight: bolder;
+  font-size: 30px;
+  font-family: 'Indie Flower', cursive;
+  border-radius: 10px 10px 10px 10px;
+-moz-border-radius: 10px 10px 10px 10px;
+-webkit-border-radius: 10px 10px 10px 10px;
+}
+.segundo{
+  position: absolute;
+  background: #5F04B4;
+  top: 5px;
+  left: 160px;
+  width: 120px;
+  height: 70px;
+  margin-top: 10px;
+  padding-top: 10px;
+  display: inline-block;
+  color: #F2F2F2;
+  text-align: center;
+  font-weight: bolder;
+  font-size: 30px;
+  font-family: 'Indie Flower', cursive;
+  border-radius: 10px 10px 10px 10px;
+-moz-border-radius: 10px 10px 10px 10px;
+-webkit-border-radius: 10px 10px 10px 10px;
+}
+.tercero{
+  position: absolute;
+  background: #4C0B5F;
+  top: 5px;
+  left: 300px;
+  width: 120px;
+  height: 70px;
+  margin-top: 10px;
+  padding-top: 10px;
+  display: inline-block;
+  color: #F2F2F2;
+  text-align: center;
+  font-weight: bolder;
+  font-size: 30px;
+  font-family: 'Indie Flower', cursive;
+  border-radius: 10px 10px 10px 10px;
+-moz-border-radius: 10px 10px 10px 10px;
+-webkit-border-radius: 10px 10px 10px 10px;
+}
+.cuarto{
+  position: absolute;
+  background: #B4045F;
+  top: 5px;
+  left: 450px;
+  width: 120px;
+  height: 70px;
+  margin-top: 10px;
+  padding-top: 10px;
+  display: inline-block;
+  color: #F2F2F2;
+  text-align: center;
+  font-weight: bolder;
+  font-size: 30px;
+  font-family: 'Indie Flower', cursive;
+  border-radius: 10px 10px 10px 10px;
+-moz-border-radius: 10px 10px 10px 10px;
+-webkit-border-radius: 10px 10px 10px 10px;
+}
+.quinto{
+  position: absolute;
+  background: #DF013A;
+  top: 5px;
+  left: 600px;
+  width: 120px;
+  height: 70px;
+  margin-top: 10px;
+  padding-top: 10px;
+  display: inline-block;
+  color: #F2F2F2;
+  text-align: center;
+  font-weight: bolder;
+  font-size: 30px;
+  font-family: 'Indie Flower', cursive;
+  border-radius: 10px 10px 10px 10px;
+-moz-border-radius: 10px 10px 10px 10px;
+-webkit-border-radius: 10px 10px 10px 10px;
+}
+.sexto{
+  position: absolute;
+  background: #610B4B;
+  top: 5px;
+  left: 750px;
+  width: 120px;
+  height: 70px;
+  margin-top: 10px;
+  padding-top: 10px;
+  display: inline-block;
+  color: #F2F2F2;
+  text-align: center;
+  font-weight: bolder;
+  font-size: 30px;
+  font-family: 'Indie Flower', cursive;
+  border-radius: 10px 10px 10px 10px;
+-moz-border-radius: 10px 10px 10px 10px;
+-webkit-border-radius: 10px 10px 10px 10px;
+}
+.septimo{
+  position: absolute;
+  background: #FF0040;
+  top: 5px;
+  left: 900px;
+  width: 120px;
+  height: 70px;
+  margin-top: 10px;
+  padding-top: 10px;
+  display: inline-block;
+  color: #F2F2F2;
+  text-align: center;
+  font-weight: bolder;
+  font-size: 30px;
+  font-family: 'Indie Flower', cursive;
+  border-radius: 10px 10px 10px 10px;
+-moz-border-radius: 10px 10px 10px 10px;
+-webkit-border-radius: 10px 10px 10px 10px;
+}
+.cabezita{
+  position: absolute;
+  top: 200px;
+  left: 100px;
+  width:270px;
+  height:300px;
+  border: 1px solid black;
+  border-radius: 10px 10px 10px 10px;
+-moz-border-radius: 10px 10px 10px 10px;
+-webkit-border-radius: 10px 10px 10px 10px;
+display: inline-block;
+}
+.lengua{
+  position: absolute;
+  top: 200px;
+  left: 400px;
+  width:270px;
+  height:350px;
+  border-radius: 10px 10px 10px 10px;
+-moz-border-radius: 10px 10px 10px 10px;
+-webkit-border-radius: 10px 10px 10px 10px;
+display: inline-block;
+}
+.formas{
+  position: absolute;
+  top: 200px;
+  left: 700px;
+  width:270px;
+  height:300px;
+  border-radius: 10px 10px 10px 10px;
+-moz-border-radius: 10px 10px 10px 10px;
+-webkit-border-radius: 10px 10px 10px 10px;
+display: inline-block;
+}
+.amigas{
+  position: absolute;
+  top: 200px;
+  left: 1000px;
+  width:270px;
+  height:350px;
+  border-radius: 10px 10px 10px 10px;
+-moz-border-radius: 10px 10px 10px 10px;
+-webkit-border-radius: 10px 10px 10px 10px;
+display: inline-block;
+}
+.chicas{
+  position: absolute;
+  top: 530px;
+  left: 100px;
+  width:270px;
+  height:350px;
+  border: 1px solid black;
+  border-radius: 10px 10px 10px 10px;
+-moz-border-radius: 10px 10px 10px 10px;
+-webkit-border-radius: 10px 10px 10px 10px;
+display: inline-block;
+}
+.uno{
+  position: absolute;
+  top: 570px;
+  left: 400px;
+  width:270px;
+  height:350px;
+  border-radius: 10px 10px 10px 10px;
+-moz-border-radius: 10px 10px 10px 10px;
+-webkit-border-radius: 10px 10px 10px 10px;
+display: inline-block;
+}
+.atras{
+  position: absolute;
+  top: 520px;
+  left: 700px;
+  width:270px;
+  height:350px;
+  border-radius: 10px 10px 10px 10px;
+-moz-border-radius: 10px 10px 10px 10px;
+-webkit-border-radius: 10px 10px 10px 10px;
+display: inline-block;
+}
+.amor{
+  position: absolute;
+  top: 550px;
+  left: 980px;
+  width:270px;
+  height:350px;
+  border-radius: 10px 10px 10px 10px;
+-moz-border-radius: 10px 10px 10px 10px;
+-webkit-border-radius: 10px 10px 10px 10px;
+display: inline-block;
+}
